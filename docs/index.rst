@@ -10,6 +10,17 @@ Welcome to pybraries's documentation!
    :maxdepth: 2
    :caption: Contents:
 
+    README
+    CONTRIBUTING
+    CODE_OF_CONDUCT
+    HISTORY
+
+
+.. autosummary::
+    :toctree: stubs
+
+    pybraries.search.Search
+    pybraries.subscribe.Subscribe
 
 
 Indices and tables
