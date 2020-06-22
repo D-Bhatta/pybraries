@@ -22,6 +22,7 @@ setup(
     author_email="jeffmshale@gmail.com",
     description="A Python wrapper for the libraries.io API",
     long_description=readme(),
+    long_description_content_type="rst",
     url="https://github.com/pybraries/pybraries/",
     packages=find_packages(),
     install_requires=requirements,
